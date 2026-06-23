@@ -265,7 +265,7 @@ The author acknowledges the contributions of the global scientific community who
 
 **Name:** *SAMUELSON G*
 **Affiliation:** *Independent Researcher*
-**Email:** *[Gmail](gsamuelsonguna@gmail.com)*
+**Email:** *gsamuelsonguna@gmail.com*
 **ORCID:** *0009-0005-8744-8178*
 
 ---
