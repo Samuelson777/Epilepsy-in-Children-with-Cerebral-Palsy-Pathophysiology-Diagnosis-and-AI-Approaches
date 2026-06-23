@@ -9,7 +9,7 @@
 [![Research](https://img.shields.io/badge/Research-Neurology-blue)](https://www.researchgate.net/publication/407542693_Neural_Epilepsy_in_Children_with_Cerebral_Palsy_Pathophysiology_Clinical_Manifestations_Diagnosis_Therapeutic_Strategies_and_Emerging_Artificial_Intelligence_Approaches)
 [![Review Paper](https://img.shields.io/badge/Article-Review-green)](https://www.researchgate.net/publication/407542693_Neural_Epilepsy_in_Children_with_Cerebral_Palsy_Pathophysiology_Clinical_Manifestations_Diagnosis_Therapeutic_Strategies_and_Emerging_Artificial_Intelligence_Approaches)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-orange)]()
-[![License](https://img.shields.io/badge/License-MIT-red)]()
+[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/Samuelson777/Epilepsy-in-Children-with-Cerebral-Palsy-Pathophysiology-Diagnosis-and-AI-Approaches/blob/main/LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -66,7 +66,7 @@ Neural-Epilepsy-in-Cerebral-Palsy/
 │
 ├── README.md
 ├── LICENSE
-├── Research_Paper.pdf
+└── Research_Paper.pdf
 
 ```
 
@@ -245,7 +245,7 @@ SAMUELSON G's. Neural Epilepsy in Children with Cerebral Palsy: A Comprehensive 
 
 This project is released under the MIT License.
 
-See the `LICENSE` file for details.
+See the [LICENSE](https://github.com/Samuelson777/Epilepsy-in-Children-with-Cerebral-Palsy-Pathophysiology-Diagnosis-and-AI-Approaches/blob/main/LICENSE) file for details.
 
 ---
 
